@@ -9,7 +9,7 @@
 
 ### `Run code`
 
-Step 1: Create database with database name: "laravel" or optional name
+## 'Step 1: Create database with database name: "laravel" or optional name
 Step 2: Create a .env file, then copy it from the .env.example file and correct the database config properly
 Step 4: Run ### `php artisan migrate` 
 Step 5: Run ### `php artisan serve`
